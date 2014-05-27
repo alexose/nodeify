@@ -1,0 +1,14 @@
+{
+  "name": "nodeify",
+  "author": "Alexander Ose <alex@alexose.com>",
+  "engine": "node >= 0.10.17",
+  "version": "0.0.0",
+  "main": "./app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alexose/nodeify.git"
+  },
+  "dependencies": {
+    "execsync": "0.0.5"
+  }
+}
