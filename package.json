@@ -9,6 +9,6 @@
     "url": "git@github.com:alexose/nodeify.git"
   },
   "dependencies": {
-    "execsync": "0.0.5"
+    "exec-sync": "~0.1.6"
   }
 }
